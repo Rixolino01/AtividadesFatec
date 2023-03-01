@@ -1,5 +1,5 @@
 const a = prompt("Informe o salario a ser alterado: ");
-const b = prompt("Insira o valor percentual do aumento: ");
+const b = prompt("informe o valor em porcentagem a ser corrigido: ");
 
 let salário = (a*(b/100))+a;
 
